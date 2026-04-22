@@ -17,3 +17,9 @@ coverage/
 *.suo
 *.ntvs*
 *.njsproj
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.example
+soumyaops/.env.example
